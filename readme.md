@@ -20,7 +20,7 @@ Bu proje, React Native ve Google Firebase kullanılarak geliştirilmiş temel bi
 
 ## Kullanılan Teknolojiler
 
-- [React Native]
-- [Google Firebase]
-- [React Navigation]
+- React Native
+- Google Firebase
+- React Navigation
 - JavaScript 
