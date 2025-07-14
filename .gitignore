@@ -1,0 +1,56 @@
+
+firebaseConfig.js
+
+# Ortam değişkenleri dosyaları
+.env
+.env*.local
+
+
+# --- Bağımlılıklar ---
+# Node.js bağımlılık klasörü
+node_modules/
+
+
+# --- React Native & Expo ---
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.metro-cache/
+
+
+# --- Build Klasörleri ---
+# iOS ve Android build çıktıları
+/android/build/
+/android/app/build/
+/ios/build/
+
+
+# --- Android Studio ---
+*.iml
+.idea/
+.gradle/
+local.properties
+/android/captures/
+/android/.gradle/
+
+
+# --- Xcode ---
+*.xcworkspace/
+*.xcuserdatad/
+xcuserdata/
+
+
+# --- İşletim Sistemi Dosyaları ---
+.DS_Store
+Thumbs.db
+
+
+# --- Log Dosyaları ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# --- TypeScript ---
+*.tsbuildinfo
